@@ -1,7 +1,6 @@
 ## Multi-defense framework against adversarial attacks on deep learning medical imaging models
 
-![Adversarial Attack](file:///Picture1-DL.png)
-![alt text](Picture1-DL-1.png)
+![Adversarial Attack](Picture1-DL-1.png)
 
 ### Introduction:
 Deep learning has transformed medical imaging by enabling automated disease detection with accuracy that rivals, and sometimes exceeds, human experts. However, the clinical reliability of these models is severely compromised by their susceptibility to adversarial attacks—subtle, imperceptible perturbations that can cause critical misclassifications. In high-stakes domains like healthcare, where diagnostic accuracy directly affects patient outcomes, such vulnerabilities pose serious risks to safety and trust.
